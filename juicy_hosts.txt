@@ -1,0 +1,14 @@
+https://admin.whatnot.com
+https://api.dev.whatnot.com
+https://dev.whatnot.com
+https://james-koll.preview.dev.whatnot.com
+https://oauth2-proxy.admin2.dev.whatnot.com
+https://oauth2-proxy.admin2.stage.whatnot.com
+https://oauth2-proxy.admin2.whatnot.com
+https://oauth2-proxy.admin.dev.whatnot.com
+https://oauth2-proxy.admin.stage.whatnot.com
+https://oauth2-proxy.admin.whatnot.com
+https://oauth2-proxy.atlas-admin.dev.whatnot.com
+https://oauth2-proxy.atlas-admin.stage.whatnot.com
+https://oauth2-proxy.atlas-admin.whatnot.com
+https://preview.dev.whatnot.com

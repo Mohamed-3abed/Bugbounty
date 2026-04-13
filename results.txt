@@ -1,0 +1,1 @@
+enterpriseenrollment.whatnot.com | GitHub_Pages | BODY | ||There isn't a GitHub Pages site here|For root URLs.*you can only serve static files|404 There is no GitHub Pages site here|||HIGH | HTTP:200 | CNAME:enterpriseenrollment-s.manage.microsoft.com | github.com

@@ -1,0 +1,3 @@
+[
+{"domain":"enterpriseenrollment.whatnot.com","service":"GitHub_Pages","type":"BODY","confidence":"||There isn't a GitHub Pages site here|For root URLs.*you can only serve static files|404 There is no GitHub Pages site here|||HIGH","status":200,"cname":"enterpriseenrollment-s.manage.microsoft.com","evidence":"github.com","timestamp":"2026-04-13T00:39:02"}
+]
